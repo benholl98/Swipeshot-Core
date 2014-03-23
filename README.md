@@ -1,0 +1,4 @@
+Swipeshot-Core
+==============
+
+My Plugin
